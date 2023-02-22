@@ -1,11 +1,11 @@
 package com.digableprince.digableprofile.contact;
 
-public class contact {
+public class Contact {
 	private String name;
 	private String email;
 	private String messsage;
 
-	public contact(String name, String email, String messsage) {
+	public Contact(String name, String email, String messsage) {
 		super();
 		this.name = name;
 		this.email = email;
